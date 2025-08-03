@@ -1,2 +1,1 @@
-# Python_Projects
-Python with Panda
+Script Python pour nettoyer des données brutes (CSV)
